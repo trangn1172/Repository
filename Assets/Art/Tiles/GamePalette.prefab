@@ -736,31 +736,31 @@ Tilemap:
     m_Data: {fileID: -5614369722473185402, guid: 2e6ecdf01ba70e3489b17b3f6525fec2,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -3265215667744824251, guid: df0b6f9e93b65bc4792e6cf7849c5e37,
+    m_Data: {fileID: -3265215667744824251, guid: dc3afb41f16774f6ea5533ca5eade331,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: 7275759306356368550, guid: df0b6f9e93b65bc4792e6cf7849c5e37,
+    m_Data: {fileID: 7275759306356368550, guid: dc3afb41f16774f6ea5533ca5eade331,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -5383219996417302934, guid: df0b6f9e93b65bc4792e6cf7849c5e37,
+    m_Data: {fileID: -5383219996417302934, guid: dc3afb41f16774f6ea5533ca5eade331,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -7684012841847623795, guid: df0b6f9e93b65bc4792e6cf7849c5e37,
+    m_Data: {fileID: -7684012841847623795, guid: dc3afb41f16774f6ea5533ca5eade331,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -8494855901003087046, guid: df0b6f9e93b65bc4792e6cf7849c5e37,
+    m_Data: {fileID: -8494855901003087046, guid: dc3afb41f16774f6ea5533ca5eade331,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -7383445712326616866, guid: df0b6f9e93b65bc4792e6cf7849c5e37,
+    m_Data: {fileID: -7383445712326616866, guid: dc3afb41f16774f6ea5533ca5eade331,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -1519951085987953674, guid: df0b6f9e93b65bc4792e6cf7849c5e37,
+    m_Data: {fileID: -1519951085987953674, guid: dc3afb41f16774f6ea5533ca5eade331,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -4791438984722042884, guid: df0b6f9e93b65bc4792e6cf7849c5e37,
+    m_Data: {fileID: -4791438984722042884, guid: dc3afb41f16774f6ea5533ca5eade331,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: 6320572342612093594, guid: df0b6f9e93b65bc4792e6cf7849c5e37,
+    m_Data: {fileID: 6320572342612093594, guid: dc3afb41f16774f6ea5533ca5eade331,
       type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -1160634482217872146, guid: ae39c96545143eb41b1618200a550c81,
@@ -911,6 +911,7 @@ TilemapRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
