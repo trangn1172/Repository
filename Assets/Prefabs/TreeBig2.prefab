@@ -80,7 +80,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!61 &6358041616348859271
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -94,10 +94,10 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -1.0509171, y: 1.1393532}
+  m_Offset: {x: 0.035191298, y: 0.009800315}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.28970918, y: 0.18112698}
     oldSize: {x: 5.62, y: 5.52}
     newSize: {x: 2.81, y: 2.76}
     adaptiveTilingThreshold: 0.5
@@ -105,5 +105,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3.528802, y: 2.2787063}
+  m_Size: {x: 2.833693, y: 1.8877056}
   m_EdgeRadius: 0
